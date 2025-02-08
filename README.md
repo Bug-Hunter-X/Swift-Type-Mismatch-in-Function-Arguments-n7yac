@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift coding error involving type mismatches in function arguments. The `bug.swift` file contains code that attempts to pass a String argument to a function expecting a Double, resulting in a compiler error. The `bugSolution.swift` file shows how to fix this error by ensuring that all arguments passed to the function are of the correct type.
